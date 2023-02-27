@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom"
 import { data2 } from "../components/dummydata"
 import { AiFillCaretDown } from "react-icons/ai"
