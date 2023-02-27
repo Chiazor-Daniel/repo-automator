@@ -1,0 +1,101 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="81">
+            <item index="0" class="java.lang.String" itemvalue="uvloop" />
+            <item index="1" class="java.lang.String" itemvalue="django-nose" />
+            <item index="2" class="java.lang.String" itemvalue="asgiref" />
+            <item index="3" class="java.lang.String" itemvalue="pytz" />
+            <item index="4" class="java.lang.String" itemvalue="attrs" />
+            <item index="5" class="java.lang.String" itemvalue="drf-spectacular" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="7" class="java.lang.String" itemvalue="lazy-object-proxy" />
+            <item index="8" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="9" class="java.lang.String" itemvalue="pylint" />
+            <item index="10" class="java.lang.String" itemvalue="isort" />
+            <item index="11" class="java.lang.String" itemvalue="astroid" />
+            <item index="12" class="java.lang.String" itemvalue="httpx" />
+            <item index="13" class="java.lang.String" itemvalue="protobuf" />
+            <item index="14" class="java.lang.String" itemvalue="tls-client" />
+            <item index="15" class="java.lang.String" itemvalue="frida" />
+            <item index="16" class="java.lang.String" itemvalue="EditorConfig" />
+            <item index="17" class="java.lang.String" itemvalue="h11" />
+            <item index="18" class="java.lang.String" itemvalue="PyQt5-sip" />
+            <item index="19" class="java.lang.String" itemvalue="rfc3986" />
+            <item index="20" class="java.lang.String" itemvalue="trio" />
+            <item index="21" class="java.lang.String" itemvalue="PyNaCl" />
+            <item index="22" class="java.lang.String" itemvalue="Pygments" />
+            <item index="23" class="java.lang.String" itemvalue="PyQt5" />
+            <item index="24" class="java.lang.String" itemvalue="certifi" />
+            <item index="25" class="java.lang.String" itemvalue="anyio" />
+            <item index="26" class="java.lang.String" itemvalue="cssbeautifier" />
+            <item index="27" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="28" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="29" class="java.lang.String" itemvalue="GitPython" />
+            <item index="30" class="java.lang.String" itemvalue="PyQtDataVisualization" />
+            <item index="31" class="java.lang.String" itemvalue="djlint" />
+            <item index="32" class="java.lang.String" itemvalue="PyQtNetworkAuth" />
+            <item index="33" class="java.lang.String" itemvalue="rapidfuzz" />
+            <item index="34" class="java.lang.String" itemvalue="wsproto" />
+            <item index="35" class="java.lang.String" itemvalue="PyQtWebEngine" />
+            <item index="36" class="java.lang.String" itemvalue="flake8-isort" />
+            <item index="37" class="java.lang.String" itemvalue="PySocks" />
+            <item index="38" class="java.lang.String" itemvalue="html-void-elements" />
+            <item index="39" class="java.lang.String" itemvalue="PyGithub" />
+            <item index="40" class="java.lang.String" itemvalue="async-generator" />
+            <item index="41" class="java.lang.String" itemvalue="httpcore" />
+            <item index="42" class="java.lang.String" itemvalue="pathspec" />
+            <item index="43" class="java.lang.String" itemvalue="pbr" />
+            <item index="44" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="45" class="java.lang.String" itemvalue="undetected-chromedriver" />
+            <item index="46" class="java.lang.String" itemvalue="trio-websocket" />
+            <item index="47" class="java.lang.String" itemvalue="yapf" />
+            <item index="48" class="java.lang.String" itemvalue="sklearn" />
+            <item index="49" class="java.lang.String" itemvalue="markdownify" />
+            <item index="50" class="java.lang.String" itemvalue="pylint-django" />
+            <item index="51" class="java.lang.String" itemvalue="Levenshtein" />
+            <item index="52" class="java.lang.String" itemvalue="numpy" />
+            <item index="53" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="54" class="java.lang.String" itemvalue="sniffio" />
+            <item index="55" class="java.lang.String" itemvalue="pyChatGPT" />
+            <item index="56" class="java.lang.String" itemvalue="PyQt3D" />
+            <item index="57" class="java.lang.String" itemvalue="html-tag-names" />
+            <item index="58" class="java.lang.String" itemvalue="exceptiongroup" />
+            <item index="59" class="java.lang.String" itemvalue="selenium" />
+            <item index="60" class="java.lang.String" itemvalue="Deprecated" />
+            <item index="61" class="java.lang.String" itemvalue="revChatGPT" />
+            <item index="62" class="java.lang.String" itemvalue="prompt-toolkit" />
+            <item index="63" class="java.lang.String" itemvalue="2captcha-python" />
+            <item index="64" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="65" class="java.lang.String" itemvalue="outcome" />
+            <item index="66" class="java.lang.String" itemvalue="websockets" />
+            <item index="67" class="java.lang.String" itemvalue="frida-tools" />
+            <item index="68" class="java.lang.String" itemvalue="autopep8" />
+            <item index="69" class="java.lang.String" itemvalue="PyVirtualDisplay" />
+            <item index="70" class="java.lang.String" itemvalue="stevedore" />
+            <item index="71" class="java.lang.String" itemvalue="bandit" />
+            <item index="72" class="java.lang.String" itemvalue="black" />
+            <item index="73" class="java.lang.String" itemvalue="GDAL" />
+            <item index="74" class="java.lang.String" itemvalue="pylint-plugin-utils" />
+            <item index="75" class="java.lang.String" itemvalue="PyQtPurchasing" />
+            <item index="76" class="java.lang.String" itemvalue="PyQtChart" />
+            <item index="77" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="78" class="java.lang.String" itemvalue="tqdm" />
+            <item index="79" class="java.lang.String" itemvalue="Django" />
+            <item index="80" class="java.lang.String" itemvalue="jsbeautifier" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pika-stubs==0.1.3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
